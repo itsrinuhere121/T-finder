@@ -1,0 +1,11 @@
+React
+Blockchain
+AI
+Deeplearing
+Machine learning
+SQL,Firebase,MongoDb
+FASTAPI,NODE JS,SPRING
+Authentication autherization GCP
+
+
+API technologies
